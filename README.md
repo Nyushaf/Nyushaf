@@ -7,15 +7,15 @@
 <br />
 <div align="center">
   <a href="https://github.com/Nyushaf/portfolio.git">
-    <img src="https://media.giphy.com/media/H1f1T0tKK4jEfNt6MG/giphy.gif" alt="Logo" width="200" height="200">
+    <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" alt="Logo" width="300">
   </a>
 
-  <h3 align="center">Portfolio</h3>
+  <h3 align="center">Welcome</h3>
 
   <p align="center">
-    This is a web developer's portfolio project. 
+    This is my Github account. 
        <br />
-    <a href="https://github.com/Nyushaf/portfolio"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Nyushaf?tab=repositories"><strong>Explore my projects »</strong></a>
     <br />
     <br />
     ·
@@ -32,7 +32,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-me">About Me</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -49,7 +49,7 @@
 </details>
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About Me
 
 <img src="image/welcome.jpg" alt="screen">
 
@@ -79,7 +79,7 @@ The following tools were used to create this project:
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running follow these simple example steps.
+![](https://komarev.com/ghpvc/?username=Nyushaf)
 
 ### Installation
 
